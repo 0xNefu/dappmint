@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dappmint/static/css/main.db448cff.chunk.css",
+    "main.js": "/dappmint/static/js/main.016488ac.chunk.js",
+    "main.js.map": "/dappmint/static/js/main.016488ac.chunk.js.map",
+    "runtime-main.js": "/dappmint/static/js/runtime-main.c9f47ac3.js",
+    "runtime-main.js.map": "/dappmint/static/js/runtime-main.c9f47ac3.js.map",
+    "static/js/2.d7335628.chunk.js": "/dappmint/static/js/2.d7335628.chunk.js",
+    "static/js/2.d7335628.chunk.js.map": "/dappmint/static/js/2.d7335628.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/dappmint/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/dappmint/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/dappmint/index.html",
+    "static/css/main.db448cff.chunk.css.map": "/dappmint/static/css/main.db448cff.chunk.css.map",
+    "static/js/2.d7335628.chunk.js.LICENSE.txt": "/dappmint/static/js/2.d7335628.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/dappmint/static/media/1.75f03515.png",
+    "static/media/reset.css": "/dappmint/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9f47ac3.js",
+    "static/js/2.d7335628.chunk.js",
+    "static/css/main.db448cff.chunk.css",
+    "static/js/main.016488ac.chunk.js"
+  ]
+}
