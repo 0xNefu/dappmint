@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dappmint/static/css/main.db448cff.chunk.css",
-    "main.js": "/dappmint/static/js/main.aba950b8.chunk.js",
-    "main.js.map": "/dappmint/static/js/main.aba950b8.chunk.js.map",
+    "main.js": "/dappmint/static/js/main.91aeaf16.chunk.js",
+    "main.js.map": "/dappmint/static/js/main.91aeaf16.chunk.js.map",
     "runtime-main.js": "/dappmint/static/js/runtime-main.c9f47ac3.js",
     "runtime-main.js.map": "/dappmint/static/js/runtime-main.c9f47ac3.js.map",
     "static/js/2.d7335628.chunk.js": "/dappmint/static/js/2.d7335628.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c9f47ac3.js",
     "static/js/2.d7335628.chunk.js",
     "static/css/main.db448cff.chunk.css",
-    "static/js/main.aba950b8.chunk.js"
+    "static/js/main.91aeaf16.chunk.js"
   ]
 }
